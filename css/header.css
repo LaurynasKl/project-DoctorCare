@@ -18,7 +18,7 @@ body {
 
 .logo{
     display: inline-block;
-    margin-left: 100px;
+    margin-left: 150px;
     font-size: 30px;
     margin-top: 10px;
 }
@@ -48,8 +48,8 @@ body {
 
 .consultant{
     float: right;
-    margin-right: 200px;
-    border: green solid 2px;
+    margin-right: 250px;
+    border: green solid 1px;
     border-radius: 50px;
     text-decoration: none;
     padding-left: 20px;
