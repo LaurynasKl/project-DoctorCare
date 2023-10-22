@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://laurynaskl.github.io/project-real-estate/
+Site published at: https://laurynaskl.github.io/project-DoctorCare/
 
 Design: [DoctorCare](https://www.figma.com/file/Uko3dHGKbE8RV3AOO63Y3R/DoctorCare-(Community)?type=design&node-id=1716-251&mode=design&t=nC2ABHORAgPAVktZ-0)
 
@@ -45,7 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/LaurynasKl/project-DoctorCare
+    git clone https://github.com/LaurynasKl/project-DoctorCare/
     ```
 2. Install NPM packages
     ```sh
